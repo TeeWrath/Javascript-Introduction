@@ -1,0 +1,11 @@
+#heading{
+    color: red;
+}
+
+ul li{
+    color: violet;
+}
+
+#hidden{
+    visibility: hidden;
+}
